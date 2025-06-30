@@ -14,4 +14,5 @@ Research Question:
 How can AI and machine learning improve the detection and mitigation of cyber attacks, such as phishing and ransomware, within hospital information systems?
 
 Hypothesis:
+
 The application of Artificial Intelligence and Machine Learning technologies within hospital information systems significantly enhances the accuracy and speed of detecting phishing and ransomware attacks, leading to more efficient mitigation responses and a measurable reduction in their overall impact on system availability and patient data integrity.
