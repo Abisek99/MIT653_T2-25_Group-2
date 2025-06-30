@@ -5,7 +5,7 @@
 **Group Members:**
   -Nabaraj Dahal (s20250004)
   -Janelle Taguiam (s20240085)
-  -Abhishek Maharjan (220250007)
+  -Abhishek Maharjan (S20250007)
 
 **Topic Selected** - **Topic 3:** _Impact of Artificial Intelligence on Cybersecurity: Investigate how Artificial Intelligence and Machine learning are used to enhance cybersecurity measures, detect threats, and mitigate cyber attacks._
 
